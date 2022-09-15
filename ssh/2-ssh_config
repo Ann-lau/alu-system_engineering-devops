@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# ssh client configuration
+Hostname 4828-web-01@54.163.51.173
+User ubuntu
+PasswordAuthentification no
